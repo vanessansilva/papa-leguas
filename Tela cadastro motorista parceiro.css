@@ -1,0 +1,47 @@
+body{
+	font-family: arial;
+}
+#form-cadastro{
+    width: 700px;
+	height: auto;
+    padding: 20px;
+	background-color: #08688E;
+	border-radius: 5px;  
+}
+#titulo{
+	margin: 0 0 20px 0;
+	letter-spacing: 2px;
+	color: white;
+	color: #FAA635;
+}
+.div-input{
+	display: flex;
+	margin-bottom: 10px;
+}
+.label-input{
+	width: 150px;
+	padding: 10px 15px 0 15px;
+	color: white;
+}
+.input-cadastro{
+    width: 350px;
+    height: 35px;
+	padding-left: 5px;
+	border: none;
+	border-radius: 0px 3px 3px 0px;
+	font-size: 12px;
+}
+.input-foto{
+	display: block;
+	padding-top: 10px;
+}
+#btn-cadastrar{
+	width: 220px;
+    height: 30px;
+	background-color: #0C9ABE;
+	border-color: #0C9ABE;
+	border-radius: 3px;
+	border-style: solid;
+	color: white;
+	font-size: 11px;
+}
